@@ -1,0 +1,9 @@
+Se proporciona un archivo Excel con dos hojas (ventas y compras) que contienen los siguientes datos:
+
+•	Ventas: columnas de cliente, producto, cantidad, precio unitario, fecha.
+•	Compras: columnas de proveedor, producto, cantidad, precio unitario, fecha.
+
+Se te pide que desarrolles un código en Python que:
+•	Lea ambos archivos Excel.
+•	Genere un reporte consolidado en un nuevo archivo Excel que contenga dos hojas:
+	una con el total de ventas por cliente y otra con el total de compras por proveedor.
